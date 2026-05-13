@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xhtml="http://www.w3.org/1999/xhtml"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+  <url>
+    <loc>https://clovera.de/</loc>
+    <lastmod>2025-05-13</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+    <xhtml:link rel="alternate" hreflang="de" href="https://clovera.de/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://clovera.de/"/>
+    <image:image>
+      <image:loc>https://clovera.de/ressources/Clovera_Logo.png</image:loc>
+      <image:title>Clovera Media Partner GbR Logo</image:title>
+      <image:caption>Logo der Clovera Media Partner GbR — Social Media Growth Partner Agentur Mannheim</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://clovera.de/ressources/CloveraIcon.png</image:loc>
+      <image:title>Clovera Kleeblatt</image:title>
+      <image:caption>Markensymbol der Clovera Media Partner GbR</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://clovera.de/#leistungen</loc>
+    <lastmod>2025-05-13</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://clovera.de/#partnership</loc>
+    <lastmod>2025-05-13</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://clovera.de/#team</loc>
+    <lastmod>2025-05-13</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://clovera.de/#about</loc>
+    <lastmod>2025-05-13</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://clovera.de/#kontakt</loc>
+    <lastmod>2025-05-13</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+</urlset>

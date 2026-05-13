@@ -1,0 +1,25 @@
+# Clovera Media Partner GbR — robots.txt
+# https://clovera.de/
+
+User-agent: *
+Allow: /
+Disallow: /skills/
+Disallow: /.git/
+Disallow: /.idea/
+Disallow: /.claude/
+
+# Search engines
+User-agent: Googlebot
+Allow: /
+
+User-agent: Bingbot
+Allow: /
+
+User-agent: DuckDuckBot
+Allow: /
+
+# Sitemap
+Sitemap: https://clovera.de/sitemap.xml
+
+# Host
+Host: https://clovera.de
