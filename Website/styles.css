@@ -1716,7 +1716,12 @@ footer {
 
   /* Team — refined mobile cards */
   .team-grid { grid-template-columns: 1fr; gap: 16px; }
-  .team-grid .team-card:nth-child(3) { grid-column: auto; }
+  .team-grid .team-card:nth-child(3) {
+    grid-column: auto;
+    max-width: none;
+    width: 100%;
+    justify-self: stretch;
+  }
   .team-photo { aspect-ratio: 5 / 4; }
   .team-photo-mono { font-size: 38px; bottom: 12px; left: 16px; }
   .team-photo-tag { top: 14px; left: 14px; padding: 6px 10px; font-size: 9.5px; }
