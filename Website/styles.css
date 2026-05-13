@@ -607,7 +607,6 @@ body {
   width: 64%;
   height: 64%;
   object-fit: contain;
-  mix-blend-mode: multiply;
   filter: drop-shadow(0 8px 12px rgba(12, 43, 28, 0.18));
 }
 @keyframes corePop {
